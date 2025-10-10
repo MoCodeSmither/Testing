@@ -11,3 +11,18 @@
     text-decoration: none;
     text-shadow: 2px 2px 5px rgba(0,0,0,0.3)
 }
+
+.div p
+{
+    font-size: 15px;
+    font-weight: normal;
+    text-transform: none;
+    text-decoration: none;
+    text-shadow: none;
+    color: black;
+    text-align: left;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
